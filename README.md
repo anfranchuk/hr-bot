@@ -1,2 +1,2 @@
-# sber-game-bot
+# hr-bot
 Бот
